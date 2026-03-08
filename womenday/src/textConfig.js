@@ -41,8 +41,8 @@ Never forget how special you are.`,
     idleIcon: "🎵",
     tracks: [
       { id: 1, title: "Dil Ka Jo Haal Hai", caption: "Because you make my heart feel alive 💖" },
-      { id: 2, title: "Dooron Dooron", caption: "My heart belongs to you 💕" },
-      { id: 3, title: "If the world was ending...", caption: "Every moment with you feels special ✨" },
+      { id: 2, title: "chiralo chandamama evaramma", caption: "Your Heart’s Favorite 💕" },
+      { id: 3, title: "If the world was ending...", caption: "Feel the Music  ✨" },
     ]
   },
 
@@ -86,7 +86,7 @@ Never forget how special you are.`,
     restartButton: "Experience Again",
     
     sealedTitle: "Message Sealed with Love",
-    sealedSubtitle: "Happy Women's Day, My Love 💕",
+    sealedSubtitle: "Happy Women's Day, My Queen 💕",
 
     heartCount: 7,
     
@@ -99,13 +99,21 @@ Never forget how special you are.`,
       bottomLeft: "💖"
     },
     
-    letterGreeting: "My beautiful girl,",
+    letterGreeting: "My Queen 👑🐘",
+
     letterParagraphs: [
-      "You are one of the strongest, kindest, and most inspiring people I know.",
-      "On this Women's Day, I just want you to remember how incredible you are. The world is lucky to have you, and I'm even luckier to love you. 💐✨"
+      "From the moment you came into my life, everything felt a little brighter. Your strength, your kindness, and the beautiful way you see the world make you truly one of a kind. Sometimes I look at you and feel proud, because behind your gentle smile is a heart stronger than anyone knows.",
+    
+      "You are my Queen, strong like an elephant and graceful in every step you take. No matter what storms life brings, I know you will walk through them with courage and dignity. Watching you chase your dreams inspires me every single day.",
+    
+      "There is a quiet story written in my heart — a story where every chapter has you in it. Your laughter, your dreams, your warmth… they make my world feel complete. Even on the ordinary days, you make life feel like something magical.",
+    
+      "On this Women's Day, I just want you to remember how extraordinary you are. One day, every dream you carry in your heart will bloom beautifully, and I will always be cheering for you. The world is lucky to have someone like you in it… and I feel even luckier to walk beside you, my Queen. 💐✨"
     ],
-    sealingNote: "Sealing will complete your special surprise.",
-    headerTag: "Final Message",
+    
+    sealingNote: "Seal this letter to reveal a small piece of my heart for you.",
+    
+    headerTag: "A Letter For My Queen",
   },
 };
 
